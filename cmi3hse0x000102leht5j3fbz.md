@@ -2,7 +2,7 @@
 title: "Java 1.1 – The First Major Update (1997)"
 seoTitle: "Java 1.1—The First Major Update (1997)"
 seoDescription: "Explore Java 1.1 (1997) — inner classes, JavaBeans, JDBC, RMI, reflection API, and event delegation. A major update that shaped modern enterprise Java."
-datePublished: Tue Dec 09 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Dec 10 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3hse0x000102leht5j3fbz
 slug: java-11-the-first-major-update-1997
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765355913232/7b30e59d-1f79-4b1c-b8e9-19bc6b5e27ca.png
