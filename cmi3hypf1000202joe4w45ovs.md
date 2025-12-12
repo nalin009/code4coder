@@ -5,9 +5,9 @@ seoDescription: "Learn everything about Java 1.0: features, JVM, applets, garbag
 datePublished: Tue Dec 09 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3hypf1000202joe4w45ovs
 slug: a-deep-dive-into-java-10-the-birth-of-java
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765351744572/455f0db9-5d31-40c8-9530-cd60f49dc16a.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765353164459/6d3d4d46-6cff-42ea-9cd0-716312cce9dd.png
-tags: java, history-of-java, java-architechture, java-10-features, java-first-version, jvm-and-bytecode, write-once-run-anywhere-wora, java-10-limitations
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553098532/ecdbcd20-215b-46b0-a557-396d6679065c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553119129/bd026d22-dc02-4a18-8848-1f535b709a87.png
+tags: programming-blogs, java, web-development, backend, programming-languages, backend-development, backend-developments, history-of-java, java-architechture, java-10-features, java-first-version, jvm-and-bytecode, write-once-run-anywhere-wora, java-10-limitations
 
 ---
 
