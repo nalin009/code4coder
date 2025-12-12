@@ -1,5 +1,5 @@
 ---
-title: "🔥 Java 2 (JDK 1.2) — The Version That Changed Java Forever"
+title: "Java 2 (JDK 1.2) — The Version That Changed Java Forever"
 seoTitle: "Java 2 (JDK 1.2)—The Version That Changed Java Forever"
 seoDescription: "Explore Java 2 (JDK 1.2) — the revolutionary update introducing Collections Framework, Swing, JIT compiler, security upgrades & the J2SE/J2EE/J2ME split."
 datePublished: Fri Dec 12 2025 03:30:41 GMT+0000 (Coordinated Universal Time)
@@ -10,6 +10,8 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765362012080/7396b
 tags: java-collections-framework, history-of-java-versions, java-2, jdk-12, java-2-features, java-swing-gui, jit-compiler-java, java-security-model, j2se-j2ee-j2me, java-2-release-1998
 
 ---
+
+## 🔥 Java 2 (JDK 1.2) — The Version That Changed Java Forever
 
 Here is a complete, deep, structured explanation of Java 2 (JDK 1.2)—including features, architecture, enhancements, API upgrades, examples, limitations, and why this version became a turning point in Java’s history.
 
