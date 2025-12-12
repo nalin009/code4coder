@@ -5,9 +5,9 @@ seoDescription: "Explore Java 2 (JDK 1.2) — the revolutionary update introduci
 datePublished: Fri Dec 12 2025 03:30:41 GMT+0000 (Coordinated Universal Time)
 cuid: cmj2b7ovw000202l5d8iu2f9a
 slug: java-2-jdk-12-the-version-that-changed-java-forever
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765360473760/e347041f-143b-42c3-9ff4-cac81954cadd.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765362012080/7396b366-e84b-4ef5-84e4-ce35ccb358ed.png
-tags: java-collections-framework, history-of-java-versions, java-2, jdk-12, java-2-features, java-swing-gui, jit-compiler-java, java-security-model, j2se-j2ee-j2me, java-2-release-1998
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553722559/9af7329c-f6ae-4048-8c63-24782fb30355.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553730365/c9772d0a-56bf-4660-9d06-982d03d08a74.png
+tags: programming-blogs, java, programming-ciovqvfcb008mb253jrczo9ye, java-collections-framework, history-of-java-versions, java-2, jdk-12, java-2-features, java-swing-gui, jit-compiler-java, java-security-model, j2se-j2ee-j2me, java-2-release-1998
 
 ---
 
