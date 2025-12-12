@@ -1,12 +1,12 @@
 ---
-title: "How to Analyse a Spring Boot Project — A Simple Step-by-Step Guide"
+title: "🔥 How to Analyse a Spring Boot Project — A Simple Step-by-Step Guide"
 seoTitle: "How to Analyse a Spring Boot Project — Step-by-Step Guide for Beginner"
 seoDescription: "Learn how to analyse any Spring Boot project easily using a clear, structured approach. Understand controllers, services, repositories, execution flow, conf"
 datePublished: Mon Dec 08 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3jfh33000102le8wnm0kud
 slug: how-to-analyse-a-spring-boot-project-a-simple-step-by-step-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765301664996/625d6b95-acbd-4bf7-a9fa-49c246bbc0d3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765345827812/6653d417-c234-43ec-8cd8-814cab52fac9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551539126/16719761-89e9-411c-8f83-c730195a8013.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551549672/9d3bb8d7-7d8e-4184-aa50-1b5122220294.png
 
 ---
 
