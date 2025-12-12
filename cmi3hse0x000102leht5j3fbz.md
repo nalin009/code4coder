@@ -5,9 +5,9 @@ seoDescription: "Explore Java 1.1 (1997) — inner classes, JavaBeans, JDBC, RMI
 datePublished: Wed Dec 10 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3hse0x000102leht5j3fbz
 slug: java-11-the-first-major-update-1997
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765355913232/7b30e59d-1f79-4b1c-b8e9-19bc6b5e27ca.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765357177982/14189478-9554-4d9a-9134-78daef700fbd.png
-tags: java-11, java-11-features, java-11-update-1997, history-of-java-versions, javabeans-java-11, java-inner-classes, java-event-delegation-model, jdbc-10, rmi-in-java, java-reflection-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553644878/85aadf63-c1c8-4988-8b79-d466a5f17f42.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765553649465/8453d47b-462f-4dce-ac6b-512ebc91062f.png
+tags: programming-blogs, java, programming-languages, java-11, java-11-features, java-11-update-1997, history-of-java-versions, javabeans-java-11, java-inner-classes, java-event-delegation-model, jdbc-10, rmi-in-java, java-reflection-api
 
 ---
 
