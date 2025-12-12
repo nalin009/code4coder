@@ -11,7 +11,7 @@ tags: java, history-of-java, java-architechture, java-10-features, java-first-ve
 
 ---
 
-# **🔥 A Deep Dive into Java 1.0 – The Birth of Java**
+## **🔥 A Deep Dive into Java 1.0 – The Birth of Java**
 
 Java, as we know it today, is a powerhouse language used in millions of applications worldwide. But it all started back in **1996** with **Java 1.0**, the very first official release from Sun Microsystems. This version laid the foundation for what would become one of the most popular programming languages in history. Let’s explore everything you need to know about Java 1.0—from its features and architecture to why it was revolutionary.
 
