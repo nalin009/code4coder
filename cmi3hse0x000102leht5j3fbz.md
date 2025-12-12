@@ -11,6 +11,8 @@ tags: java-11, java-11-features, java-11-update-1997, history-of-java-versions, 
 
 ---
 
+## 🔥 Java 1.1 – The First Major Update (1997)
+
 Java 1.1, released in **1997**, was the first significant update to Java 1.0. It didn’t just refine the language; it introduced major features that paved the way for **enterprise-level Java development**, better GUI handling, and database connectivity.
 
 Let’s explore the key features, advantages, and limitations of this milestone release.
