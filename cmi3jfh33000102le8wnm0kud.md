@@ -5,8 +5,9 @@ seoDescription: "Learn how to analyse any Spring Boot project easily using a cle
 datePublished: Mon Dec 08 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3jfh33000102le8wnm0kud
 slug: how-to-analyse-a-spring-boot-project-a-simple-step-by-step-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551539126/16719761-89e9-411c-8f83-c730195a8013.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551549672/9d3bb8d7-7d8e-4184-aa50-1b5122220294.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765554197191/c9a7e59e-d211-4207-a7d8-966683857286.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765554204571/fdefb786-a2b4-4005-81f2-82eb94f38196.png
+tags: programming-blogs, java, springboot, spring-framework
 
 ---
 
