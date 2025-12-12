@@ -1,5 +1,5 @@
 ---
-title: "🔥 How to Analyse a Spring Boot Project — A Simple Step-by-Step Guide"
+title: "How to Analyse a Spring Boot Project — A Simple Step-by-Step Guide"
 seoTitle: "How to Analyse a Spring Boot Project — Step-by-Step Guide for Beginner"
 seoDescription: "Learn how to analyse any Spring Boot project easily using a clear, structured approach. Understand controllers, services, repositories, execution flow, conf"
 datePublished: Mon Dec 08 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
@@ -9,6 +9,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551539126/1671976
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765551549672/9d3bb8d7-7d8e-4184-aa50-1b5122220294.png
 
 ---
+
+## 🔥 How to Analyse a Spring Boot Project — A Simple Step-by-Step Guide
 
 Understanding an existing Spring Boot application can feel overwhelming—new files, unfamiliar logic, layers everywhere. But the good news?
 
@@ -33,7 +35,12 @@ Before diving deep, ask yourself:
 
 You can find answers by simply checking:
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Component</strong></p></td><td colspan="1" rowspan="1"><p><strong>Meaning</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Controllers</strong></p></td><td colspan="1" rowspan="1"><p>REST endpoints, request flow</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Templates (Thymeleaf/HTML)</strong></p></td><td colspan="1" rowspan="1"><p>UI-based application</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Schedulers</strong></p></td><td colspan="1" rowspan="1"><p>Background jobs or tasks</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Repositories</strong></p></td><td colspan="1" rowspan="1"><p>Database usage</p></td></tr></tbody></table>
+| **Component** | **Meaning** |
+| --- | --- |
+| **Controllers** | REST endpoints, request flow |
+| **Templates (Thymeleaf/HTML)** | UI-based application |
+| **Schedulers** | Background jobs or tasks |
+| **Repositories** | Database usage |
 
 Once you know **why the app exists**, understanding **how** it works becomes much easier.
 
@@ -56,24 +63,24 @@ Most Spring Boot applications follow a predictable layout like this:
 * main class      → Application entry point
     
 
-Just scanning these folders gives you a good first impression of how the project is organized. 
+Just scanning these folders gives you a good first impression of how the project is organized.
 
 ## 📌 **Step 3: Run the Project**
 
 Try running the application to see how it behaves:
 
-            mvn spring-boot:run   # Maven
+mvn spring-boot:run   # Maven
 
-         or
+or
 
-            ./gradlew bootRun      # Gradle 
+./gradlew bootRun      # Gradle
 
 * If it runs successfully → you’re ready to explore further
     
 * If errors occur → note them (missing configs, DB connection failure, dependency issues, etc.)
     
 
-A running application gives you real-time insight, way faster than reading code alone. 
+A running application gives you real-time insight, way faster than reading code alone.
 
 ## 📌 **Step 4: Follow the Execution Flow**
 
@@ -83,7 +90,7 @@ Find the class with:
 @SpringBootApplication
 ```
 
-This is the starting point. 
+This is the starting point.
 
 From here:
 
@@ -93,7 +100,7 @@ From here:
     
 * Trace those calls into **Services.**
     
-* Follow down to **Repositories** & **Entities** (if DB exists). 
+* Follow down to **Repositories** & **Entities** (if DB exists).
     
 
 You’ll clearly see how requests travel through the app:
@@ -113,7 +120,7 @@ Some files reveal hidden architectural details instantly:
 | Logs on startup | Missing configs, errors, beans, and features enabled |
 | API tests (Postman/Browser) | Actual behaviours of the system |
 
- These files are your **shortcut to understanding the project’s backbone.**
+These files are your **shortcut to understanding the project’s backbone.**
 
 ## 📌 **Step 6: Document Findings (Very Important)**
 
@@ -128,15 +135,15 @@ As you explore, note down:
 * Weak areas or improvements needed.
     
 
-A good analysis is not about reading everything — 
+A good analysis is not about reading everything —
 
-**It’s about extracting useful insight and presenting it clearly.** 
+**It’s about extracting useful insight and presenting it clearly.**
 
 ## **🔍 Layer-Wise Analysis Approach**
 
-A professional Spring Boot review is incomplete without evaluating each layer. 
+A professional Spring Boot review is incomplete without evaluating each layer.
 
-### **🟦 1. Controller Layer —** 
+### **🟦 1. Controller Layer —**
 
 ***What requests does the app handle?***
 
@@ -160,7 +167,7 @@ A professional Spring Boot review is incomplete without evaluating each layer. 
 * Uses UserService, OrderService
     
 
-### **🟩 2. Service Layer —** 
+### **🟩 2. Service Layer —**
 
 ***How is business logic processed?***
 
@@ -182,7 +189,7 @@ A professional Spring Boot review is incomplete without evaluating each layer. 
 * Uses UserRepository + OrderRepository
     
 
-### **🟨 3. Repository Layer —** 
+### **🟨 3. Repository Layer —**
 
 ***How does it talk to the database?***
 
@@ -218,7 +225,7 @@ If someone follows this approach, they can confidently answer:
 
 This method transforms confusion into clarity—fast.
 
-## 📌 **Conclusion** 
+## 📌 **Conclusion**
 
 Analyzing a Spring Boot application doesn’t need to be hard.
 
